@@ -12,7 +12,8 @@ public class auth
     }
     public static void main(String[] args)
     {
-        
+        auth a = new auth();
+        a.demo();
     }
     
 }
