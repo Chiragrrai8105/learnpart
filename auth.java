@@ -10,5 +10,9 @@ public class auth
         System.out.println(p.getPassword());
         System.out.println(String.copyValueOf(p.getPassword()));
     }
+    public static void main(String[] args)
+    {
+        
+    }
     
 }
